@@ -1,7 +1,7 @@
 {
   "browser_specific_settings": {
     "gecko": {
-      "id": "disabletabs@leflorians.net"
+      "id": "disable-tabs@leflorians.net"
     }
   },
   "background": {

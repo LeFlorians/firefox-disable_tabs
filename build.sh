@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-zip -r -FS disabletabs.zip ./* --exclude '*.xpi' --exclude '.*' --exclude '*.sh'
+zip -r -FS disable-tabs.zip ./* --exclude '*.xpi' --exclude '.*' --exclude '*.sh'
