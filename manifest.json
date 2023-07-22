@@ -1,0 +1,19 @@
+{
+  "background": {
+      "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "description": "Switch tabs for windows in firefox.",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs",
+  "manifest_version": 2,
+  "name": "Disable Tabs",
+  "permissions": [
+    "tabs"
+  ],
+  "version": "1.0"
+}
