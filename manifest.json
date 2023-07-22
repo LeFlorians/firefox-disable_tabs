@@ -1,4 +1,9 @@
 {
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "disabletabs@leflorians.net"
+    }
+  },
   "background": {
       "scripts": ["background.js"]
   },
